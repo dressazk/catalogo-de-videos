@@ -1,6 +1,7 @@
 body{
-    color:rgba(12, 7, 172, 0.864);
+    color:rgba(244, 244, 246, 0.864);
     background:rgb(229, 6, 144);
+    font-family:"Pacifico", cursive;
 }
 
 .chamada{
