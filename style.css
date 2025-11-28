@@ -1,11 +1,11 @@
 body{
     color:rgba(244, 244, 246, 0.947);
-    background:rgb(229, 6, 144);
+    background:rgb(255, 4, 4);
     font-family:"Creepster", system-ui;
 }
 
 .chamada{
-    background:rgb(113, 5, 108);
+    background:rgb(234, 112, 5);
     padding-botton:80px;
     padding-top:80px;
     display: flex;
